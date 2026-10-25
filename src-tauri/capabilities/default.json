@@ -14,7 +14,6 @@
     "fs:allow-read-file",
     "fs:allow-open",
     "fs:allow-write",
-    "fs:allow-close",
     "fs:allow-stat"
   ]
 }
